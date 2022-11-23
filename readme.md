@@ -1,6 +1,6 @@
 # Project Minecraft
 
-Currently all projects are made to work with minecraft 1.18.*/1.19.*
+Currently all projects are made to work with minecraft 1.18.\*/1.19.\*
 
 Projects are inspired and created to solve challenges based on [LiveOverflows](https://github.com/LiveOverflow) youtube series [Minecraft Hacked](https://www.youtube.com/watch?v=Ekcseve-mOg&list=PLhixgUqwRTjwvBI-hmbZ2rpkAl4lutnJG) which inspires the audience to learn reverse engineering, vulnerability research and working with opensource projects.
 
