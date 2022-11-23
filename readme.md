@@ -6,7 +6,7 @@ Projects are inspired and created to solve challenges based on [LiveOverflows](h
 
 ## Bedrock scanner
 
-Rust project capable of scanning ~43.8m chunks per second / ~11.2b blocks per second for specified bedrock formation. Also can scan for seed based on given bedrock position and x|z value.
+Rust project capable of scanning ~43.8m chunks per second / ~11.2b blocks per second on a single thread for specified bedrock formation. Also can scan for seed based on given bedrock position and x|z value. (Benchmarked on Apple m1)
 
 ## Minecraft server masscanner
 
