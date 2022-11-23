@@ -1,0 +1,9 @@
+[submodule "raviomod"]
+	path = raviomod
+	url = https://github.com/RAV64/raviomod
+[submodule "minecraft-server-masscanner"]
+	path = minecraft-server-masscanner
+	url = https://github.com/RAV64/minecraft-server-masscanner
+[submodule "bedrock-finder"]
+	path = bedrock-finder
+	url = https://github.com/RAV64/bedrock-finder
