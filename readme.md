@@ -10,8 +10,8 @@ Rust project capable of scanning ~43.8m chunks per second / ~11.2b blocks per se
 
 ## Minecraft server masscanner
 
-Python project which utilizes [masscan](https://github.com/robertdavidgraham/masscan) to scan batches of ip-ranges for open port at a time and multithreading mcstatus to ping them for active minecraft servers. Results are stored neatly in mongodb database.
+Python project which utilizes [masscan](https://github.com/robertdavidgraham/masscan) to scan batches of ip-ranges for specific open port and multithread ping them for active minecraft servers. Results are stored neatly in [mongodb](https://www.mongodb.com/) database.
 
 ## Raviomod
 
-Minecraft fabric utility mods created by me which include exploits for challenges on the server.
+Minecraft [Fabric](https://github.com/FabricMC) utility mods created by me which include exploits for challenges on the server.
